@@ -1,0 +1,49 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "676-908-0709",
+      "id": 1
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "767-890-2345",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "347-809-5637",
+      "id": 3
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "564-592-0943",
+      "id": 4
+    },
+    {
+      "name": "Lebron James",
+      "number": "239-937-8990",
+      "id": 6
+    },
+    {
+      "name": "Khushi Patel",
+      "number": "516-289-2253",
+      "id": 10
+    },
+    {
+      "name": "Ashok Patel",
+      "number": "516-395-7835",
+      "id": 11
+    },
+    {
+      "name": "James Bond",
+      "number": "777-777-7777",
+      "id": 12
+    },
+    {
+      "name": "Drake",
+      "number": "898-973-7279",
+      "id": 13
+    }
+  ]
+}
