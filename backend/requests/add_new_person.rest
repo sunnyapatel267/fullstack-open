@@ -1,7 +1,17 @@
+PUT  http://localhost:3001/api/persons/65a313183bfa953963040b7f
+Content-Type: application/json
+
+{
+    "name": "John Doe",
+    "number": "100-000-0000"
+}
+
+###
+
 POST  http://localhost:3001/api/persons
 Content-Type: application/json
 
 {
-    "name": "Lebron James",
-    "number": "767-989-0023"
+    "name": "la",
+    "number": "100-000-0000"
 }

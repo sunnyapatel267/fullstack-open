@@ -74,6 +74,10 @@ const App = () => {
             setErrorMessage(null)
           }, 5000)
         })
+        .catch(error => {
+          setSuccesOrUnsucess(false)
+          setErrorMessage(`${error.response.data.error}`)
+        })
     }
   }
 
